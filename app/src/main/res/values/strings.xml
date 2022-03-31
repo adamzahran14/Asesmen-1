@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator App</string>
+    <string name="tip_calculator">Aplikasi ini menghitung tip dari sebuah harga total pembelian dikalikan dengan persentase tip yang akan diberikan</string>
+    <string name="bill">Bill Harga</string>
+    <string name="persentase_tip">Persentase Tip</string>
+    <string name="jumlahTip">Jumlah Tip</string>
+    <string name="totalHarga">Total Harga</string>
+    <string name="hitung_button">Hitung</string>
+    <string name="bill_invalid">Bill Harga tidak boleh kosong.</string>
+</resources>
